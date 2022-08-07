@@ -11,6 +11,6 @@ word "bass" 3/4 of the characters in the file will be shown correctly.  It
 really isn't all that bad, I suppose.  To get much you would have to correctly guess
 both the length of the password, and most of the characters in it.
 
-Send comments to: yehoodig@gmail.com 
+Send comments to: jcmcconnel@gmail.com 
 
 Written in CPP.
